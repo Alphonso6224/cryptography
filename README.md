@@ -48,10 +48,3 @@ Si vous utilisez Python 3, remplacez `python` par `python3`.
 - Assurez-vous de stocker le dossier de clés dans un emplacement sécurisé.
 
 - Ne partagez pas la clé générée avec des personnes non autorisées.
-
-## Avertissement
-
-Ce script est fourni à des fins éducatives. Assurez-vous de comprendre les implications de chiffrer des données et prenez des mesures appropriées pour protéger vos clés de chiffrement.
-```
-
-N'oubliez pas d'ajuster les sections et les instructions en fonction de votre projet réel. Ce README fournit une structure de base qui peut être étendue en fonction des besoins spécifiques de votre mini-projet.
